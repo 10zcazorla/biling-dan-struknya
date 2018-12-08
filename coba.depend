@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543752336 source:c:\tugas\algoritma\looping\coba\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
